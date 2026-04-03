@@ -13,4 +13,4 @@ Chain that summarizes + analyzes document(s); include workflow diagram
 - Use Jupyter Notebook
 
 ## Example Usage
-Enter your request: Summarize the document data/move_like_water.pdf
+Enter your request: Summarize the document data/Move_like_water.pdf
